@@ -37,6 +37,8 @@ In this challenge, you will mimic a real-world R&D pipeline, moving from rapid p
 
 ## Phase 1 (Prototyping) on the qBraid Platform
 
+<a href="https://account-v2.qbraid.com/?gitHubUrl=https://github.com/iQuHACK/2026-NVIDIA" target="_parent"><img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" alt="Launch On qBraid" width="150"/></a>
+
 During the duration of the hackathon, you will have access to the new and improved version of the qBraid platform accessible through here: https://account-v2.qbraid.com/
 
 ## Phase 2 (Acceleration) on the Brev Platform
